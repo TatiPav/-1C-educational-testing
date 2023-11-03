@@ -14,3 +14,9 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76451490454
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76457902227
 07.Табличная модель прикладного решения
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76483206059
+08.Механизмы интеграции и обмена данными
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76483584611
+09.Система взаимодействия
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76518880441
+10.Интерфейсные механизмы
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76554570582
