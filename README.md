@@ -20,3 +20,5 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76483584611
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76518880441
 10.Интерфейсные механизмы
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76554570582
+11.Механизмы построения отчетности
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76581047304
