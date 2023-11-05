@@ -28,3 +28,5 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76613997144
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76616927761
 14.Механизмы сложных периодических расчетов
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76621872368
+15.1С:Профессионал по платформе "1С:Предприятие 8.3"
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76622152346
