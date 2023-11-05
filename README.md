@@ -26,3 +26,5 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76581047304
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76613997144
 13.Объекты и механизмы бухгалтерского учета
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76616927761
+14.Механизмы сложных периодических расчетов
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76621872368
