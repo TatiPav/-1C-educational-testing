@@ -24,3 +24,5 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76554570582
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76581047304
 12.Механизмы оперативного учета
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76613997144
+13.Объекты и механизмы бухгалтерского учета
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76616927761
