@@ -30,3 +30,6 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76616927761
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76621872368
 15.1С:Профессионал по платформе "1С:Предприятие 8.3"
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76622152346
+
+1С:ERP Управление предприятием 2.5
+01.Общие положения, нормативно-справочная информация
