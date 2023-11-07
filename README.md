@@ -47,6 +47,7 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76621872368
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76622152346
 
 1С:ERP Управление предприятием 2.5
+
 01.Общие положения, нормативно-справочная информация
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76635273136
 
