@@ -35,7 +35,7 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76622152346
 01.Общие положения, нормативно-справочная информация
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76635273136
 02.Планирование
-
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76656121718
 03.Бюджетирование
 
 04.Работа с заказами
