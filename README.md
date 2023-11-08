@@ -56,6 +56,7 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76656121718
 
 03.Бюджетирование
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76729304045
+
 04.Работа с заказами
 
 05.Закупки
