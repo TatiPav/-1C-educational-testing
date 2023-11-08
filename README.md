@@ -55,7 +55,7 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76635273136
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76656121718
 
 03.Бюджетирование
-
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76729304045
 04.Работа с заказами
 
 05.Закупки
@@ -65,3 +65,18 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76656121718
 07.Продажи
 
 08.Казначейство
+
+09.Ведение взаиморасчетов
+
+10.Нормирование
+
+11.Управление производством
+
+12.Производство
+
+13.Оперативный учет
+
+14.Регламентированный учет
+
+15. 1С:Профессионал по программе "1С:ERP Управление предприятием 2.5"
+    
