@@ -58,6 +58,7 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76656121718
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76729304045
 
 04.Работа с заказами
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76768529396
 
 05.Закупки
 
