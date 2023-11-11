@@ -64,6 +64,7 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76768529396
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76777406690
 
 06.Складское хозяйство
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76792688667
 
 07.Продажи
 
