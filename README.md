@@ -67,6 +67,7 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76777406690
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76792688667
 
 07.Продажи
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76800871083
 
 08.Казначейство
 
