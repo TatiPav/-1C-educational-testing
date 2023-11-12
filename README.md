@@ -70,6 +70,7 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76792688667
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76800871083
 
 08.Казначейство
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76803997954
 
 09.Ведение взаиморасчетов
 
