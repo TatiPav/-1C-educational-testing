@@ -79,6 +79,7 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76806718435
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76830546124
 
 11.Управление производством
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76867361129
 
 12.Производство
 
