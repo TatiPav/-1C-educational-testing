@@ -85,6 +85,7 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76867361129
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76889344059
 
 13.Оперативный учет
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76911157553
 
 14.Регламентированный учет
 
