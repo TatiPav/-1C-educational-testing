@@ -88,6 +88,7 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76889344059
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76911157553
 
 14.Регламентированный учет
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76935673877
 
 15. 1С:Профессионал по программе "1С:ERP Управление предприятием 2.5"
     
