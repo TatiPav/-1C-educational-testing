@@ -91,6 +91,7 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76911157553
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76935673877
 
 15. 1С:Профессионал по программе "1С:ERP Управление предприятием 2.5"
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76998233283
 
 1С:Бухгалтерия 8 для Беларуси
 
