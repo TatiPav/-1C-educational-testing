@@ -96,4 +96,4 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76998233283
 1С:Бухгалтерия 8 для Беларуси
 
 01.Общие сведения о платформе "1С:Предприятие", понятия конфигурирования и администрирования
-    
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76998233283    
