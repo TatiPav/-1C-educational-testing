@@ -100,3 +100,6 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=76998233283
 
 02.Организация и использование плана счетов бухгалтерского учета
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=77010611568
+
+03.Регистры и регистраторы
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=77072151489
