@@ -103,3 +103,7 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=77010611568
 
 03.Регистры и регистраторы
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=77072151489
+
+04.Общие сведения о типовой конфигурации "Бухгалтерия для Беларуси"
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=77162845165
+
