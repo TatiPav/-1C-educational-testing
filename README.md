@@ -108,3 +108,4 @@ https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=77072151489
 https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=77162845165
 
 05.Типовая конфигурация: учет операций с денежными средствами
+https://free.edu.1c.ru/free_registration/sertificat.jsp?SertID=77173383465
